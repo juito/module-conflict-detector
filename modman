@@ -1,5 +1,5 @@
 # Comments are supported, begin a line with a hash
-code/Debug                      app/code/community/Alekseon/ModulesConflictDetector
+code/ModulesConflictDetector                      app/code/community/Alekseon/ModulesConflictDetector
 #design/layout/debug.xml         app/design/frontend/base/default/layout/debug.xml
 #design/template/debug           app/design/frontend/base/default/template/debug
 # admin
