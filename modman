@@ -1,4 +1,4 @@
 # Comments are supported, begin a line with a hash
 code/ModulesConflictDetector                      app/code/community/Alekseon/ModulesConflictDetector
 Alekseon_ModulesConflictDetector.xml          	app/etc/modules/Alekseon_ModulesConflictDetector.xml
-design/adminhtml/default/default/template/alekseon/moduleConflictDetector           app/design/adminhtml/default/default/template/alekseon/moduleConflictDetector
+design/adminhtml/default/default/template/alekseon/modulesConflictDetector           app/design/adminhtml/default/default/template/alekseon/modulesConflictDetector
